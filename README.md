@@ -163,17 +163,17 @@ Example command:
 
 To run tests, run the following command:
 
-To test the .gitignore file create a new "test.md" file and execute the following command:
+To test the .gitignore file:
+- Create a new "test.md" file and execute the following command:
 
 
 Example command:
 
 ```
   git status
-  
 ```
 
-And it shuld show no changes
+And it should show no changes
 
 
 ### Deployment
