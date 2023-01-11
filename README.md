@@ -122,8 +122,8 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-GitBash installed on your OS 
-Visual Studio Code or a reliable code editor
+- GitBash installed on your OS 
+- Visual Studio Code or a reliable code editor
 
 ### Setup
 
