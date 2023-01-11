@@ -62,9 +62,13 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello-Microverse] <a name="about-project"></a>
 
-> This is one of the first projects on the early days on microverse program.
+This is one of the first projects on the early days on microverse program.
 
-**[Hello-Microverse]** is a html project with css styling
+**[Hello-Microverse]** is a html project with css styling apart from that
+On the project's non-functional requirements we have to:
+- Apply .gitignore file to ignore "test.md" called files. Which helped me to understand on the purpose of a .gitignore file
+- Integrate linters to the project. Learned about it's importance and how to make a robust project implementing linters
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -226,8 +230,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project  don't doubt on make any comments or try to reach me out.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -236,7 +238,6 @@ If you like this project  don't doubt on make any comments or try to reach me ou
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank my family for the encourage on taking this strong step into the developing carreer
 
@@ -246,7 +247,6 @@ I would like to thank my family for the encourage on taking this strong step int
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **Did you find hard to create this project?**
 
