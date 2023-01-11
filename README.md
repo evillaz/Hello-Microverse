@@ -168,7 +168,8 @@ To test the .gitignore file create a new "test.md" file and execute the followin
 
 Example command:
 
-```git status
+```
+  git status
   
 ```
 
