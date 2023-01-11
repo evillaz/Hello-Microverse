@@ -62,34 +62,36 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello-Microverse] <a name="about-project"></a>
 
-> This is one of the first projects on the early days on microverse program.
+This is one of the first projects on the early days on microverse program.
 
-**[Hello-Microverse]** is a html project with css styling
+**[Hello-Microverse]** is a html project with css styling apart from that
+On the project's non-functional requirements we have to:
+- Apply .gitignore file to ignore "test.md" called files. Which helped me to understand on the purpose of a .gitignore file
+- Integrate linters to the project. Learned about it's importance and how to make a robust project implementing linters
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactjs.org/">No client build for this project</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://expressjs.com/">No servers are integrated on this project</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://www.postgresql.org/">No database is used on this project</a></li>
   </ul>
 </details>
 
@@ -97,21 +99,16 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **A warm greet to microverse**
+- **.gitignore file to ignore "test.md" files**
+- **linters applied to the project**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Soon](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,39 +116,32 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- GitBash installed on your OS 
+- Visual Studio Code or a reliable code editor
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
+
 Example commands:
 
 ```sh
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
 ```
---->
 
 ### Install
 
 Install this project with:
 
+No installation needed yet
 <!--
 Example command:
 
@@ -163,7 +153,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the html file.
 
 <!--
 Example command:
@@ -177,18 +167,25 @@ Example command:
 
 To run tests, run the following command:
 
-<!--
+To test the .gitignore file:
+- Create a new "test.md" file and execute the following command:
+
+
 Example command:
 
-```sh
-  bin/rails test test/models/article_test.rb
 ```
---->
+  git status
+```
+
+And it should show no changes
+
 
 ### Deployment
 
 You can deploy this project using:
 
+Visual studio code or a realiable code editor
+Web browser
 <!--
 Example:
 
@@ -203,19 +200,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Eduardo Villarreal**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@evillaz](https://github.com/evillaz)
+- Twitter: [@evillazz](https://twitter.com/evillazz)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/eduardo-villarreal-144a8925a)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,11 +212,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- This was an enclosed activity no future features will be uploaded
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,9 +230,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project  don't doubt on make any comments or try to reach me out.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,9 +238,8 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank my family for the encourage on taking this strong step into the developing carreer
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -265,15 +247,14 @@ I would like to thank...
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **Did you find hard to create this project?**
 
-  - [Answer_1]
+  - I tried my best and follow the guidelines to create this project. I got hard times on some of the workflow but i think i just have to keep learning everyday and give my best try every time.
 
-- **[Question_2]**
+- **What was your thinking process to solve the requirements?**
 
-  - [Answer_2]
+  - First i tried to address each one of the requirements and solve them individually to keep integrating them as i was progressing.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -282,7 +263,5 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
